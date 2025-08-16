@@ -10,8 +10,8 @@ Optimized for Pinterest sharing 📌 and built to inspire.
 
 ---
 
-## 🖼 Preview  
-![Website Preview](screenshot.png)  
+## 🌐 Live Website  
+👉 [Visit Slay Market](index.html) 
 
 ---
 
