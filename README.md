@@ -24,7 +24,7 @@ Optimized for Pinterest sharing 📌 and built to inspire.
 
 ## 🔗 Connect With Me  
 - 📌 [Pinterest](https://ph.pinterest.com/keeeyyystore/)  
-- 🌎 [Website](https://github.com/keeeyyystore/superslay/)  
+- 🌎 [email](keeeyyystore@gmail.com)  
 
 ---
 
