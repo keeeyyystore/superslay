@@ -11,7 +11,7 @@ Optimized for Pinterest sharing 📌 and built to inspire.
 ---
 
 ## 🌐 Live Website  
-👉 [Visit Slay Market](script.js) 
+👉 [Visit Slay Market](https://keeeyyystore.github.io/superslay/#) 
 
 ---
 
