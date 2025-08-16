@@ -23,8 +23,8 @@ Optimized for Pinterest sharing 📌 and built to inspire.
 ---
 
 ## 🔗 Connect With Me  
-- 📌 Pinterest: [https://ph.pinterest.com/keeeyyystore/]  
-- 🌎 Email: [keeeyyystore@gmail.com]  
+- 📌 Pinterest: [keeeyyystore/](https://ph.pinterest.com/keeeyyystore/)  
+- 🌎 Email: [keeeyyystore@gmail.com](keeeyyystore@gmail.com)  
 
 ---
 
