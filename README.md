@@ -11,12 +11,7 @@ Optimized for Pinterest sharing 📌 and built to inspire.
 ---
 
 ## 🌐 Live Website  
-👉 [Visit Slay Market](index.html) 
-
----
-
-## 🌐 Live Website  
-👉 [Visit Slay Market](index.html)  
+👉 [Visit Slay Market](script.js) 
 
 ---
 
