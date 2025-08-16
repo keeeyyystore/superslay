@@ -16,7 +16,7 @@ Optimized for Pinterest sharing 📌 and built to inspire.
 ---
 
 ## 🌐 Live Website  
-👉 [Visit Slay Market](file:///C:/Users/CLIENT/Desktop/key%20biz/website/index.html)  
+👉 [Visit Slay Market](index.html)  
 
 ---
 
