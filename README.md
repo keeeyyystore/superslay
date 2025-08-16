@@ -16,7 +16,7 @@ Optimized for Pinterest sharing 📌 and built to inspire.
 ---
 
 ## 🌐 Live Website  
-👉 [Visit Slay Market](https://kiaguardiano-commits.github.io/superslay/)  
+👉 [Visit Slay Market](https://github.com/keeeyyystore/superslay/)  
 
 ---
 
@@ -29,7 +29,7 @@ Optimized for Pinterest sharing 📌 and built to inspire.
 
 ## 🔗 Connect With Me  
 - 📌 [Pinterest](https://ph.pinterest.com/keeeyyystore/)  
-- 🌎 [Website](https://kiaguardiano-commits.github.io/superslay/)  
+- 🌎 [Website](https://github.com/keeeyyystore/superslay/)  
 
 ---
 
